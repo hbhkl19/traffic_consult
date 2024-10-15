@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>city.txt</file>
+        <file>trainTimeTable.txt</file>
+        <file>planeTimeTable.txt</file>
+    </qresource>
+</RCC>
